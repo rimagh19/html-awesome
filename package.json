@@ -1,6 +1,6 @@
 {
   "name": "html-awesome",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "A powerful and intuitive CLI tool to quickly scaffold HTML projects. Generate boilerplate HTML, CSS, and JavaScript files with a single command. ",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
     "cli",
     "project"
   ],
+  
   "author": "Rima ALi <rimaAliDev@gmail.com> (rima-ali.vercel.app)",
   "license": "ISC",
   "repository": {

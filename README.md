@@ -3,6 +3,10 @@
 # html-awesome
 
 
+[![npm version](https://badge.fury.io/js/html-awesome.svg)](https://badge.fury.io/js/html-awesome)
+[![GitHub license](https://img.shields.io/github/license/rimagh19/html-awesome)](https://github.com/rimagh19/html-awesome/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/rimagh19/html-awesome)](https://github.com/rimagh19/html-awesome/issues)
+[![GitHub stars](https://img.shields.io/github/stars/rimagh19/html-awesome)](https://github.com/rimagh19/html-awesome/stargazers)
 
 **HTML Awesome** is a powerful and intuitive CLI tool designed to help developers quickly scaffold HTML projects. With just one command, you can generate boilerplate HTML, CSS, and JavaScript files, making it perfect for kickstarting your projects without the hassle of manual setup.
 
