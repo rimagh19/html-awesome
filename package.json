@@ -1,0 +1,49 @@
+{
+  "name": "html-awesome",
+  "version": "1.0.13",
+  "description": "A powerful and intuitive CLI tool to quickly scaffold HTML projects. Generate boilerplate HTML, CSS, and JavaScript files with a single command. ",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node ./src/index.js",
+    "test": "yarn node ./src/index.js",
+    "start": "node ./src/init.js"
+  },
+  "keywords": [
+    "html",
+    "generator",
+    "cli",
+    "project"
+  ],
+  "author": "Rima ALi <rimaAliDev@gmail.com> (rima-ali.vercel.app)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rimagh19/html-awesome"
+  },
+  "bugs": {
+    "url": "https://github.com/rimagh19/html-awesome/issues"
+  },
+  "homepage": "https://github.com/rimagh19/html-awesome#readme",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "files": [
+    "src",
+    "index.js",
+    "templates"
+  ],
+  "dependencies": {
+    "bin": "^0.0.0",
+    "nodeman": "^1.1.2",
+    "unquirer": "^1.0.0",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "eslint": "^9.19.0"
+  },
+  "type": "module",
+  "bin": {
+    "html-awesome": "./src/index.js"
+  }
+}
